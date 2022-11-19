@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Api\\Api.csproj": {}
+    "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Api/Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Api\\Api.csproj": {
+    "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Api/Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Api\\Api.csproj",
+        "projectUniqueName": "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Api/Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Api\\obj\\",
+        "projectPath": "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Api/Api.csproj",
+        "packagesPath": "/Users/edgarfernandolamprea/.nuget/packages/",
+        "outputPath": "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/edgarfernandolamprea/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,6 +80,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.30, 3.1.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -90,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

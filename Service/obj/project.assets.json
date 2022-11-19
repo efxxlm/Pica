@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\oscar\\.nuget\\packages\\": {}
+    "/Users/edgarfernandolamprea/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Service\\Service.csproj",
+      "projectUniqueName": "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Service/Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Service\\Service.csproj",
-      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oscar\\OneDrive\\Documentos\\GitHub\\Pica\\Service\\obj\\",
+      "projectPath": "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Service/Service.csproj",
+      "packagesPath": "/Users/edgarfernandolamprea/.nuget/packages/",
+      "outputPath": "/Users/edgarfernandolamprea/Documents/GitHub/PICA/Pica/Service/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/edgarfernandolamprea/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,10 +62,6 @@
           {
             "name": "Microsoft.NETCore.App.Ref",
             "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
           }
         ],
         "frameworkReferences": {
@@ -75,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
